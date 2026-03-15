@@ -1,1 +1,3 @@
-# in-n-out-books
+# WEB 420 Restful APIs
+* Richard Krasso
+* Kaitlyn Kelly
